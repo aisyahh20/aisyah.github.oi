@@ -9,7 +9,7 @@
 body {
     font-family: 'Poppins', sans-serif;
     background: linear-gradient(135deg, #ff7eb3, #ff758c, #ffffff);
-    background-image: url("Background.jpg");
+    background-image: url("background.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -53,11 +53,11 @@ body {
 h1 {
     font-size: 1.7rem;
     margin-bottom: 10px;
-    color: #fff;
+    color: #111;
 }
 
 .bio {
-    color: #eee;
+    color: #333;
     font-size: 0.95rem;
     margin-bottom: 25px;
 }
@@ -117,7 +117,7 @@ h1 {
 footer {
     margin-top: 25px;
     font-size: 0.8rem;
-    color: #fff;
+    color: #555;
 }
 
 /* 🌸 RESPONSIF UNTUK HP */
